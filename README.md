@@ -1,5 +1,5 @@
 # Teste Prático Sustentação
-Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o para prático para se tornar um Desenvolvedor Jr. 
+Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o teste prático para se tornar um Desenvolvedor Jr. 
 
 ## Introdução
 
