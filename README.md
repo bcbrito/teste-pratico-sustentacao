@@ -56,6 +56,5 @@ serão levados em consideração também os seguintes conhecimentos:
 ## Processo de submissão
 
 O teste deve ser versionado e disponibilizado no GitHub do candidado.
-Enviar o link para: bruno.brito@jsl.com.br
 
 Boa sorte a todos e Bom trabalho!!
